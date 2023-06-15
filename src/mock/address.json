@@ -1,0 +1,41 @@
+[{
+    "consignee": "张龙",
+    "fullAddress": "北京市朝阳区远洋天地5号楼15",
+    "id":"1",
+    "isDefault":"0",
+    "phoneNum":"15798932334",
+    "provinceId":1,
+    "userAddress":"北京市朝阳区远洋天地5号楼15",
+    "userId":1
+},
+{
+    "consignee": "张三",
+    "fullAddress": "北京市朝阳区远洋天地5号楼13",
+    "id":"2",
+    "isDefault":"1",
+    "phoneNum":"14134482838",
+    "provinceId":2,
+    "userAddress":"北京市朝阳区远洋天地5号楼13",
+    "userId":1
+},
+{
+    "consignee": "张龙",
+    "fullAddress": "北京市朝阳区远洋天地5号楼16",
+    "id":"3",
+    "isDefault":"0",
+    "phoneNum":"15798932334",
+    "provinceId":3,
+    "userAddress":"北京市朝阳区远洋天地5号楼16",
+    "userId":1
+},
+{
+    "consignee": "张龙",
+    "fullAddress": "北京市朝阳区远洋天地5号楼17",
+    "id":"4",
+    "isDefault":"0",
+    "phoneNum":"15798932334",
+    "provinceId":4,
+    "userAddress":"北京市朝阳区远洋天地5号楼17",
+    "userId":1
+}
+]
